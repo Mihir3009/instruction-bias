@@ -1,3 +1,27 @@
+# Data Collection Survey
+
+## Instructions
+
+### Temporal Reasoning
+
+Generate 5 data instances for "Temporal commonsense reasoning".
+
+Instructions for generating data instances:
+
+The question has to require "temporal" understanding regarding some events in the sentence. In this task, we ask you to create five different questions for finding out Event duration. Event Duration for events is the understanding of duration of event such as "brushing teeth", usually takes few minutes.
+
+In the task, you will be asked to generate five questions for event duration. Please try your best to make 5 diverse questions.
+
+### Coreference resolution
+
+Generate 5 questions for Coreference Resolution.
+
+Instructions for generating data instances:
+
+In this task, you will look at paragraphs that contain several phrases that are references to names of people, places, or things. You will notice that multiple phrases often refer to the same person, place, or thing. Your job is to write questions that you would ask a person to see if they understood that the phrases refer to the same entity. We want you to avoid questions that can be answered correctly by someone without actually understanding the paragraph.
+
+**Passage**: Nearing London, Oliver encounters Jack Dawkins, a pickpocket more commonly known by the nickname the "Artful Dodger", and his sidekick, a boy of a humorous nature named Charley Bates, but Oliver's innocent and trusting nature fails to see any dishonesty in their actions. The Dodger provides Oliver with a free meal and tells him of a gentleman in London who will "give him lodgings for nothing, and never ask for change". Grateful for the unexpected assistance, Oliver follows the Dodger to the "old gentleman's" residence. In this way Oliver unwittingly falls in with an infamous Jewish criminal known as Fagin, the gentleman of whom the Artful Dodger spoke. Ensnared, Oliver lives with Fagin and his gang of juvenile pickpockets in their lair at Saffron Hill for some time, unaware of their criminal occupations. He believes they make wallets and handkerchiefs.
+
 ## Collected Samples
 
 Temporal Reasoning | Coreference Resolution |
