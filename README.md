@@ -71,3 +71,8 @@ How long does it take to go from base to top of Mt. Everest?	| Who made wallets 
 How much time do you spend on <event>?	| Who believes that Fagin and his gang make wallets and handkerchiefs? |
 What span of time had passed before it started to rain?	| What city does Fagin live in? |
 how much time you need to take bath?	| "Oliver's innocent and trusting nature fails to see any dishonesty in their actions" in given sentence for whom "their" is referred ? |
+How much time you need for eating lunch? | For whom 'his sidekick' is used?
+What is a usual time period for finishing the shower? | Who believes they make wallets and handkerchiefs?
+What is the duration of reaching from Phoenix to Las vegas in car? | who will "give him lodgings for nothing, and never ask for change"?
+How much time you need to drink this tea? | "in their action" - here "their" refers to?
+What is the time frame of getting licence in USA? | What city Hill is located?
