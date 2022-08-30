@@ -75,4 +75,4 @@ How much time you need for eating lunch? | For whom 'his sidekick' is used?
 What is a usual time period for finishing the shower? | Who believes they make wallets and handkerchiefs?
 What is the duration of reaching from Phoenix to Las vegas in car? | who will "give him lodgings for nothing, and never ask for change"?
 How much time you need to drink this tea? | "in their action" - here "their" refers to?
-What is the time frame of getting licence in USA? | What city Hill is located?
+What's the timeframe of getting licence in USA? | What city Hill is located?
