@@ -117,7 +117,7 @@ How long do you need to cook an egg to make it hard boiled?	| What is the last n
 What is the time difference between Los Angeles and New York? | What is the name of the officer who committed a suicide? |
 What is the average life expectancy of a person? | Who conducted an interview in a Viet Cong tunnel base? |
 How long can you not breathe underwater? | What is the first name of the murderer? |
-Is it reasonable to take 100days for a vacation? | What nationality is sister Nicole? |
+Is it reasonable to take 100 days for a vacation? | What nationality is sister Nicole? |
 How long it will take to train MNIST digit recognition on A100 GPU?	| What is the name of person coming for investigation, when a prostitute is found murdered? | 
 How many hours it will take an average gamer to complete the Elden Ring? | What is the name of person who committed suicide? |
 In how many hours a person can reach Tempe to Greer in Porsche Boxter? | Whom help Investigation Dividion took to close the target? |	
