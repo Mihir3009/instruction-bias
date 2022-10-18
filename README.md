@@ -113,52 +113,52 @@ What's the timeframe of getting licence in USA? | What city Hill is located?
 
 Temporal Reasoning | Coreference Resolution |
 --- | --- |
-How long do you need to cook an egg to make it hard boiled?	| |
-What is the time difference between Los Angeles and New York? | |	
-What is the average life expectancy of a person? | |
-How long can you not breathe underwater? | |
-Is it reasonable to take 100days for a vacation? | |
-How long it will take to train MNIST digit recognition on A100 GPU?	| |
-How many hours it will take an average gamer to complete the Elden Ring? | |
-In how many hours a person can reach Tempe to Greer in Porsche Boxter? | |	
-How much time it will take for an asteroid to reach to earth from Main Asteroid Belt?	| |
-How many months it will take for an average human (20-30 years old) to learn a new language? | |
-How long did it take for you to reach San Diego from Los Angeles?	| |
-How long did you know your wife before you got married?	| |
-How long will be the interview?	How long is your flight? | |
-How much time did you take to complete math assignment? | |
-How long was Peter's summer vacation?	| |
-How long was the flight from LA to New York? | |
-How long did John walk his dog last night? | |	
-How long did it take for Harry to finish his undergrad?	| |
-How long was Tim's internship? | |
-How long did the computer take to restart? | |
-How long did the board meeting last? | |
-How long did Catie work over the weekend? | |
-How long did John take to clean the house? | |
-How long was the drive from San diego to San francisco? | |
-How much time elapsed during the event? | |	
-How long was the dinner? | |	
-How much later did Jack return? | |	
-What was the time difference between both events? | |	
-How long ago had the event started? | |
-After how many months will the next season of this tournament happen? | |	
-How long will it take to travel from Canada to Japan? | |	
-How long can Jack hold his breath? | |	
-If Jack is a fast runner, how long can he take to run 5 miles? | |	
-In how much time will the water boil? | |
-How long you should punish students? | |	
-How long will it take to run marathon? | |	
-How long will this event go on? | |
-What is the duration of brushing teeth? | |	
-How long will you drive? | |
-How many years will it take to do PhD? | |	
-How long are you take for bathing? | |	
-How long are you looking at me? | |	
-How long will exam take? | |	
-How long will it take to make bridge? | |
-How long does it take for light to reach from sun to earth ? | |	
-if your travelling speed is nearing the speed of light, will time pass slowly or quickly for you ? | |	
-How long does a PhD course last ? | |	
-How long does a formula-1 car take to go around a modern track ? | |	
-How long does it take for a person to bike for 1 mile ? | |
+How long do you need to cook an egg to make it hard boiled?	| What is the last name of the NCO? |
+What is the time difference between Los Angeles and New York? | What is the name of the officer who committed a suicide? |
+What is the average life expectancy of a person? | Who conducted an interview in a Viet Cong tunnel base? |
+How long can you not breathe underwater? | What is the first name of the murderer? |
+Is it reasonable to take 100days for a vacation? | What nationality is sister Nicole? |
+How long it will take to train MNIST digit recognition on A100 GPU?	| What is the name of person coming for investigation, when a prostitute is found murdered? | 
+How many hours it will take an average gamer to complete the Elden Ring? | What is the name of person who committed suicide? |
+In how many hours a person can reach Tempe to Greer in Porsche Boxter? | Whom help Investigation Dividion took to close the target? |	
+How much time it will take for an asteroid to reach to earth from Main Asteroid Belt?	| Where Investigation Division conduct the interview? |
+How many months it will take for an average human (20-30 years old) to learn a new language? | How many murders Investigation Division found in the last year? |
+How long did it take for you to reach San Diego from Los Angeles?	| Who discovered that high ranking U.S. Army officers are prime suspects in a murder of a prostitute? |
+How long did you know your wife before you got married?	| Who find out that inquiry about six murders that took place last year was shut down from higher up the chain of command? |
+How long will be the interview?	How long is your flight? | Who is helped by Master Sergeant Dix to get closer to the target? |
+How much time did you take to complete math assignment? | Whose lives were in danger during the investigation of a murderer? |
+How long was Peter's summer vacation?	| Who conducted interviews of suspects in a Viet Cong tunnel base? |
+How long was the flight from LA to New York? | What was the name of first suspect when the prostitute murdered was found? |
+How long did John walk his dog last night? | Who's lives are in danger during investigation? |	
+How long did it take for Harry to finish his undergrad?	| Who was the NCO of the Viet Cong tunnel base? |
+How long was Tim's internship? | Who did the NCO of the Viet Cong tunnel base kill? |
+How long did the computer take to restart? | What is the name of person who threaten the lives of the investigators during the investigation? |
+How long did the board meeting last? | Who are the two joint services criminal investigation agents on duty in Saigon? |
+How long did Catie work over the weekend? | Whose help did the agents finally take? |
+How long did John take to clean the house? | In the movie, who turns out to be the killer of prostitutes? |
+How long was the drive from San diego to San francisco? | What position in the army is held by Dexter Armstrong? |
+How much time elapsed during the event? | Which organization do the prime suspects belong to? |	
+How long was the dinner? | What is the position of the killer? |	
+How much later did Jack return? | How many murders have there been in the last year? |	
+What was the time difference between both events? | What was the profession of the victim? |	
+How long ago had the event started? | How does the colonel die? |
+After how many months will the next season of this tournament happen? | Investigations lead whom to Colonel Dexter?	|
+How long will it take to travel from Canada to Japan? | Whose investigation leads them closer? |	
+How long can Jack hold his breath? | Who rules out all their suspects? |	
+If Jack is a fast runner, how long can he take to run 5 miles? | Whose NCO is the killer? |	
+In how much time will the water boil? | What are the names of first class sergeant? |
+How long you should punish students? | Investigations lead to whom? |	
+How long will it take to run marathon? | Who are the prime suspects of murder? |	
+How long will this event go on? | What is the name of French Nun?	|
+What is the duration of brushing teeth? | What is the name of non-commissioned officer in-charge? |	
+How long will you drive? | What is the name of the U.S. Army officer who is the prime suspect? |
+How many years will it take to do PhD? | What is the real name of the French nun who helps the investigators? |	
+How long are you take for bathing? | What is the alias of the murderer? |	
+How long are you looking at me? | What is the real name of the non-commissioned officer in charge? |	
+How long will exam take? | What is the name of the NCO who is in charge of the investigation? |	
+How long will it take to make bridge? | What are the name of suspects around high ranking US Officers? |
+How long does it take for light to reach from sun to earth ? | What was the last enquiry about? |	
+if your travelling speed is nearing the speed of light, will time pass slowly or quickly for you ? | What is investigation happening in Saigon? |	
+How long does a PhD course last ? | What did Dexter Armstrong do to escape investigation ?	What was the twist in the movie ? |	
+How long does a formula-1 car take to go around a modern track ? | Who committed a suicide? |	
+How long does it take for a person to bike for 1 mile ? | With the help of a French num Sister Nicole and whose non-comissionsed officer in charge? |
