@@ -6,7 +6,17 @@
 
 Generate 5 data instances for "Temporal commonsense reasoning".
 
-Instructions for generating data instances:
+#### Instructions for generating data instances (with examples)
+
+The question has to require "temporal" understanding regarding some events in the sentence. In this task, we ask you to create five different questions for finding out Event duration. Event Duration for events is the understanding of duration of event such as "brushing teeth", usually takes few minutes.
+
+Examples:
+1. How long did Jack play basketball?
+2. How long has the software been having this issue?
+
+In the task, you will be asked to generate five questions for event duration. Please try your best to make 5 diverse questions.
+
+#### Instructions for generating data instances (without examples)
 
 The question has to require "temporal" understanding regarding some events in the sentence. In this task, we ask you to create five different questions for finding out Event duration. Event Duration for events is the understanding of duration of event such as "brushing teeth", usually takes few minutes.
 
@@ -16,13 +26,35 @@ In the task, you will be asked to generate five questions for event duration. Pl
 
 Generate 5 questions for Coreference Resolution.
 
-Instructions for generating data instances:
+#### Instructions for generating data instances (with examples)
 
 In this task, you will look at paragraphs that contain several phrases that are references to names of people, places, or things. You will notice that multiple phrases often refer to the same person, place, or thing. Your job is to write questions that you would ask a person to see if they understood that the phrases refer to the same entity. We want you to avoid questions that can be answered correctly by someone without actually understanding the paragraph.
 
+Example:
+
+Passage: Nearing London, Oliver encounters Jack Dawkins, a pickpocket more commonly known by the nickname the "Artful Dodger", and his sidekick, a boy of a humorous nature named Charley Bates, but Oliver's innocent and trusting nature fails to see any dishonesty in their actions. The Dodger provides Oliver with a free meal and tells him of a gentleman in London who will "give him lodgings for nothing, and never ask for change". Grateful for the unexpected assistance, Oliver follows the Dodger to the "old gentleman's" residence. In this way Oliver unwittingly falls in with an infamous Jewish criminal known as Fagin, the gentleman of whom the Artful Dodger spoke. Ensnared, Oliver lives with Fagin and his gang of juvenile pickpockets in their lair at Saffron Hill for some time, unaware of their criminal occupations. He believes they make wallets and handkerchiefs.
+
+Questions:
+
+1. Who believes Fagin's gang make wallets and handkerchiefs?
+2. What is the alias of the person whose sidekick had a humorous nature?
+3. What are the names of the people whose dishonesty Oliver failed to see?
+4. What is the Dodger's real name?
+5. What is the real name of the person who provided Oliver with a free meal?
+6. Which place served as Fagin and his gang's lair?
+7. Where is the old gentleman's residence?
+
+Given to annotators:
 **Passage**: Nearing London, Oliver encounters Jack Dawkins, a pickpocket more commonly known by the nickname the "Artful Dodger", and his sidekick, a boy of a humorous nature named Charley Bates, but Oliver's innocent and trusting nature fails to see any dishonesty in their actions. The Dodger provides Oliver with a free meal and tells him of a gentleman in London who will "give him lodgings for nothing, and never ask for change". Grateful for the unexpected assistance, Oliver follows the Dodger to the "old gentleman's" residence. In this way Oliver unwittingly falls in with an infamous Jewish criminal known as Fagin, the gentleman of whom the Artful Dodger spoke. Ensnared, Oliver lives with Fagin and his gang of juvenile pickpockets in their lair at Saffron Hill for some time, unaware of their criminal occupations. He believes they make wallets and handkerchiefs.
 
-## Collected Samples
+#### Instructions for generating data instances (without examples)
+
+In this task, you will look at paragraphs that contain several phrases that are references to names of people, places, or things. You will notice that multiple phrases often refer to the same person, place, or thing. Your job is to write questions that you would ask a person to see if they understood that the phrases refer to the same entity. We want you to avoid questions that can be answered correctly by someone without actually understanding the paragraph.
+
+Given to annotators:
+**Passage**: Nearing London, Oliver encounters Jack Dawkins, a pickpocket more commonly known by the nickname the "Artful Dodger", and his sidekick, a boy of a humorous nature named Charley Bates, but Oliver's innocent and trusting nature fails to see any dishonesty in their actions. The Dodger provides Oliver with a free meal and tells him of a gentleman in London who will "give him lodgings for nothing, and never ask for change". Grateful for the unexpected assistance, Oliver follows the Dodger to the "old gentleman's" residence. In this way Oliver unwittingly falls in with an infamous Jewish criminal known as Fagin, the gentleman of whom the Artful Dodger spoke. Ensnared, Oliver lives with Fagin and his gang of juvenile pickpockets in their lair at Saffron Hill for some time, unaware of their criminal occupations. He believes they make wallets and handkerchiefs.
+
+## Collected samples for instructions without examples
 
 Temporal Reasoning | Coreference Resolution |
 --- | --- |
@@ -76,3 +108,47 @@ What is a usual time period for finishing the shower? | Who believes they make w
 What is the duration of reaching from Phoenix to Las vegas in car? | who will "give him lodgings for nothing, and never ask for change"?
 How much time you need to drink this tea? | "in their action" - here "their" refers to?
 What's the timeframe of getting licence in USA? | What city Hill is located?
+
+## Collected samples for instructions with examples
+
+Temporal Reasoning | Coreference Resolution |
+--- | --- |
+How long do you need to cook an egg to make it hard boiled?	| |
+What is the time difference between Los Angeles and New York? | |	
+What is the average life expectancy of a person? | |
+How long can you not breathe underwater? | |
+Is it reasonable to take 100days for a vacation? | |
+How long it will take to train MNIST digit recognition on A100 GPU?	| |
+How many hours it will take an average gamer to complete the Elden Ring? | |
+In how many hours a person can reach Tempe to Greer in Porsche Boxter? | |	
+How much time it will take for an asteroid to reach to earth from Main Asteroid Belt?	| |
+How many months it will take for an average human (20-30 years old) to learn a new language? | |
+How long did it take for you to reach San Diego from Los Angeles?	| |
+How long did you know your wife before you got married?	| |
+How long will be the interview?	How long is your flight? | |
+How much time did you take to complete math assignment? | |
+How long was Peter's summer vacation?	| |
+How long was the flight from LA to New York? | |
+How long did John walk his dog last night? | |	
+How long did it take for Harry to finish his undergrad?	| |
+How long was Tim's internship? | |
+How long did the computer take to restart? | |
+How long did the board meeting last? | |
+How long did Catie work over the weekend? | |
+How long did John take to clean the house? | |
+How long was the drive from San diego to San francisco? | |
+How much time elapsed during the event? | |	
+How long was the dinner? | |	
+How much later did Jack return? | |	
+What was the time difference between both events? | |	
+How long ago had the event started? | |
+After how many months will the next season of this tournament happen? | |	
+How long will it take to travel from Canada to Japan? | |	
+How long can Jack hold his breath? | |	
+If Jack is a fast runner, how long can he take to run 5 miles? | |	
+In how much time will the water boil? | |
+How long you should punish students? | |	
+How long will it take to run marathon? | |	
+How long will this event go on? | |
+What is the duration of brushing teeth? | |	
+How long will you drive? | |
