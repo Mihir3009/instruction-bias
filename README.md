@@ -152,3 +152,13 @@ How long will it take to run marathon? | |
 How long will this event go on? | |
 What is the duration of brushing teeth? | |	
 How long will you drive? | |
+How many years will it take to do PhD? | |	
+How long are you take for bathing? | |	
+How long are you looking at me? | |	
+How long will exam take? | |	
+How long will it take to make bridge? | |
+How long does it take for light to reach from sun to earth ? | |	
+if your travelling speed is nearing the speed of light, will time pass slowly or quickly for you ? | |	
+How long does a PhD course last ? | |	
+How long does a formula-1 car take to go around a modern track ? | |	
+How long does it take for a person to bike for 1 mile ? | |
